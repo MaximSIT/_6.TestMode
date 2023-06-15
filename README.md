@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ksv0nw0d7hx29wv9?svg=true)](https://ci.appveyor.com/project/MaximSIT/6-testmode)
